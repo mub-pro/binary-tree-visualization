@@ -1,4 +1,4 @@
-# binary_tree_visualization
+# Binary Tree Visualization
 
 Binary tree visualization app
 
