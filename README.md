@@ -4,13 +4,12 @@ Binary tree visualization app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A flutter web app that visualizes a binary tree.
 
-A few resources to get you started if this is your first Flutter project:
+The app contains only insert function.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+
+![screenshot](https://user-images.githubusercontent.com/54718862/157396791-f9fd46e9-7cfc-4241-8813-f24fbe93e570.png)
