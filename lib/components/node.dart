@@ -14,8 +14,6 @@ class NodeWidget extends StatelessWidget {
       children: [
         if (node!.parent != null)
           Positioned(
-            // left: node!.x,
-            // top: node!.y,
             child: SizedBox(
               width: MediaQuery.of(context).size.width,
               height: MediaQuery.of(context).size.height,
@@ -62,7 +60,7 @@ class LinePainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     final paint = Paint()
-      ..color = Colors.grey
+      ..color = Colors.grey.shade400
       ..strokeWidth = 2
       ..strokeCap = StrokeCap.round;
     canvas.drawLine(
